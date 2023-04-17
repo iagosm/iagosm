@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Iago Sousa👋
 
-- Eu atualmente estou estudando JS e PHP. Pretendo começar projetos com React.
+- Eu atualmente estou estudando JS e PHP.
 
 - Onde me encontrar?<br>
  twitter:iagortng <br>
